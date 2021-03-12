@@ -1,3 +1,2 @@
 # 165a-winter-2020
-Test
-Another Test
+L-Store read/write optimized, multithreaded database. Written in Python with only standard libraries.  
